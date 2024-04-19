@@ -1,15 +1,15 @@
+//assx
 [
   {
     "plz": "12345 Buxtehude",
     "img": "https://wallpapers.com/images/featured/flower-pictures-unpxbv1q9kxyqr1d.jpg",
-    "namequalifikation": ["Felix Felina","Sanoanimal Ernährungsberater #sanoabschlussjahr"], 
+    "name": "Felix Felina",
+    "qualifikation": "Sanoanimal Ernährungsberater #sanoabschlussjahr", 
     "zusatzqualifikation": "Hufbearbeitung, Beritt",
     "sanoabschlussjahr": "(1987)",
-    "kontakt": [
-      "okapi-online.de",
-      "Tel:987654321",
-      ""
-    ],
+    "website": "okapi-online.de",
+    "tel": "Tel:987654321",
+    "mail": "",
     "siegel": "https://i.imgur.com/zBetC65.jpg",
     "fernberatung": "Fernberatung",
     "adresse": "",
