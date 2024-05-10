@@ -12,7 +12,7 @@
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/siegel-1.png",
     "fernberatung": "Fernberatung, vor Ort",
     "adresse": "Zabel-Krüger-Damm 18, 13469 Berlin",
-    "koordinaten": [52.60870,13.32710],
+    "koordinaten": [52.6087053, 13.3274387],
     "land": "Deutschland"
   },
   {
@@ -28,7 +28,7 @@
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/siegel-1.png",
     "fernberatung": "Fernberatung, vor Ort",
     "adresse": "24631 Langwedel",
-    "koordinaten": [54.2157,9.9355],
+    "koordinaten": [54.2156,9.9355],
     "land": "Deutschland"
   },
   {
@@ -44,7 +44,7 @@
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/siegel-1.png",
     "fernberatung": "vor Ort",
     "adresse": "Zuffenhauser Str. 54, 70825 Korntal",
-    "koordinaten": [48.82969,9.12930],
+    "koordinaten": [48.82996,9.12966],
     "land": "Deutschland"
   }, 
   {
@@ -60,7 +60,7 @@
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/siegel-1.png",
     "fernberatung": "Fernberatung, vor Ort",
     "adresse": "Ehrlichstraße 30, 10318 Berlin",
-    "koordinaten": [52.4493,13.6409],
+    "koordinaten": [52.4731,13.5089],
     "land": "Deutschland"
   }, 
   {
@@ -108,7 +108,7 @@
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/siegel-1.png",
     "fernberatung": "vor Ort",
     "adresse": "Kanton Bern",
-    "koordinaten": [46.8470,7.6932],
+    "koordinaten": [46.7060,7.7646],
     "land": "Schweiz"
   }
   
