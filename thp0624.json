@@ -1,8 +1,8 @@
 [
   {
     "plz": "13469 Berlin",
-    "img": "",
-    "altText": "",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/09/Vater_-Sandra-Foto-Therapeutennetzwerk.webp",
+    "altText": "Therapeutin Sandra Vater",
     "name": "Sandra Vater",
     "qualifikation": "Tierheilpraktikerin, Sanoanimal Ernährungsberaterin Pferd",
     "website": "www.pferdewohl-vater.de",
@@ -17,7 +17,7 @@
   {
     "plz": "24631 Langwedel",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Monique-Gluesing-Foto-Pferd-fuer-das-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Monique Glüsing",
+    "altText": "Therapeutin Monique Glüsing",
     "name": "Monique Glüsing",
     "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Osteopathin für Pferde",
     "website": "www.equivitanaturalis.de",
@@ -32,7 +32,7 @@
   {
     "plz": "70825 Korntal",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Heike-Staffler-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Heike Staffler",
+    "altText": "Therapeutin Heike Staffler",
     "name": "Heike Staffler",
     "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Huforthopädin DHG, Pferdewirtin (Z+H), Reitpädagogin (SG-TR), The Gentle Touch Kreinberg, Feldenkrais und Reiten (v.d.Sode)",
     "website": "www.huf-in-form.de",
@@ -47,7 +47,7 @@
   {
     "plz": "10318 Berlin",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Timm-Cornelia-Foto-Therapeutennetzwerk-FINAL.png",
-    "altText": "Therapeut Cornelia Timm",
+    "altText": "Therapeutin Cornelia Timm",
     "name": "Cornelia Timm",
     "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Bowen für Pferde nach Carola Missall",
     "website": "equivital-pferdegesundheit.de",
@@ -62,7 +62,7 @@
   {
     "plz": "71101 Schönaich",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Vanessa-Holzapfel-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Vanessa Holzapfel",
+    "altText": "Therapeutin Vanessa Holzapfel",
     "name": "Vanessa Holzapfel",
     "qualifikation": "Pferdewirtin, Sanoanimal Ernährungsberaterin Pferd, Hufpflegerin",
     "website": "www.instagram.com/vanessaholzapfel?igsh=MTIzdWZwZXh2dzA1YQ==",
@@ -77,7 +77,7 @@
   {
     "plz": "63512 Hainburg",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Svenja-Matuschzyk-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Svenja Matuschzyk",
+    "altText": "Therapeutin Svenja Matuschzyk",
     "name": "Svenja Matuschzyk",
     "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Emmetttherapeutin",
     "website": "imkerngesund.net",
@@ -92,7 +92,7 @@
   {
     "plz": "72770 Reutlingen",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Elke-Malenke-Foto-fuer-das-Therapeutennetzwerk.jpeg",
-    "altText": "Therapeut Elke Malenke",
+    "altText": "Therapeutin Elke Malenke",
     "name": "Elke Malenke",
     "qualifikation": "Futter-Expertin für Pferde (bei Frau Dr. Fritz), Equikinetic, Dualaktivierung, EquiClassic Work, Akupunktmassage nach Penzel an Pferd und Hund",
     "website": "www.equus-solis.de",
@@ -107,7 +107,7 @@
   {
     "plz": "15890 Siehdichum",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Julia-Mende-Foto-fuer-das-Therapeutennetzwerk-scaled.jpeg",
-    "altText": "Therapeut Julia Mende",
+    "altText": "Therapeutin Julia Mende",
     "name": "Julia Mende",
     "qualifikation": "tierärztlich geprüfte Tierheilpraktikerin, Futter-Expertin für Pferde (bei Frau Dr. Fritz) , zertifizierte Tierakupunkteurin, Dorn-Osteopathin für Pferde, Pferdetaping, integrative Körperarbeit (Masterson-Method), neurofasziale Regualationstherapie, Trainingstherapie und Rehatraining für Pferde, ganzheitliche Trainingsplanung",
     "website": "www.tiernaturheilkunde-mende.de",
@@ -122,7 +122,7 @@
   {
     "plz": "82386 Oberhausen i.Obb.",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Graetz-Andrea-Foto-Pferd-fuer-das-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Andrea Grätz",
+    "altText": "Therapeutin Andrea Grätz",
     "name": "Andrea Grätz",
     "qualifikation": "Futter-Expertin für Pferde (bei Frau Dr. Fritz), Klassische Homöopathie, Tierkommunikation",
     "website": "www.4-healthy-animals.de",
@@ -137,7 +137,7 @@
   {
     "plz": "3068 Utzigen",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Nadine-Schlatter-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Nadine Schlatter",
+    "altText": "Therapeutin Nadine Schlatter",
     "name": "Nadine Schlatter",
     "qualifikation": "Sanoanimal Ernährungsberater, Landwirtin",
     "website": "pferde-gesund-füttern.ch",
@@ -152,7 +152,7 @@
   {
     "plz": "94099 Ruhstorf",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Tenschert-Julia-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Julia Tenschert",
+    "altText": "Therapeutin Julia Tenschert",
     "name": "Julia Tenschert",
     "qualifikation": "Kinesiologie für Pferde (bei Fr. Dr. Fritz), Futter-Expertin für Pferde  (bei Frau Dr. Fritz), Tierheilpraktikerin",
     "website": "www.kerngesundes-tier.de",
@@ -227,7 +227,7 @@
   {
     "plz": "2000 Stockerau",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Wanas-Patricia-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Patricia Wanas",
+    "altText": "Therapeutin Patricia Wanas",
     "name": "Patricia Wanas",
     "qualifikation": "Tierärztin, Fachtierärztin für Chiropraktik, Futter-Expertin für Pferde  (bei Frau Dr. Fritz)",
     "website": "www.wanashelp.at",
@@ -242,7 +242,7 @@
   {
     "plz": "4578 Bibern Solothurn",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Moeri-Andrea-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Andrea Möri",
+    "altText": "Therapeutin Andrea Möri",
     "name": "Andrea Möri",
     "qualifikation": "Futter-Expertin für Pferde (bei Frau Dr. Fritz), Trainerin Dual-Aktivierung / Equikinetic, Manuelle Therapie nach Christiane Herrmann MATCH, Energetischen Pferdetherapeut SFRV",
     "website": "gesundespferd.ch",
@@ -257,7 +257,7 @@
     {
     "plz": "3033 Wohlen, Kanton Bern",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Obi-Lengweiler-Christine-Foto-Pferd-fuer-das-Therapeutennetzwerk.jpg",
-    "altText": "Therapeut Christine Obi Lengweiler",
+    "altText": "Therapeutin Christine Obi Lengweiler",
     "name": "Christine Obi Lengweiler",
     "qualifikation": "Futter-Expertin für Pferde (bei Frau Dr. Fritz), Kinesiologie für Pferde (bei Fr. Dr. Fritz), Craniosakrale-Balance / Energetische Behandlungen, Schüssler-Salze",
     "website": "www.ausgeglichene-pferde.ch",
