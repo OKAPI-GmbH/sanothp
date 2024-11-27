@@ -1,4 +1,19 @@
 [
+    {
+    "plz": "25917 Enge-Sande",
+    "img": "",
+    "altText": "",
+    "name": "Alexandra Teipel",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Pferdeheilpraktikerin, Reitpädagogin, Reittherapeutin, Beziehungstrainer, Mentaltrainerin für Reiter",
+    "website": "",
+    "tel": "0178 3497815",
+    "mail": "horseateipel@gmx.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/2024_Sanoanimal_Siegel_Erna╠ehrungsberater-Pferd_230126-.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "25917 Enge-Sande",
+    "koordinaten": [54.71897,8.98338],
+    "land": "Deutschland"
+  },
   {
     "plz": "13469 Berlin",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/09/Vater_-Sandra-Foto-Therapeutennetzwerk.webp",
@@ -6,7 +21,7 @@
     "name": "Sandra Vater",
     "qualifikation": "Tierheilpraktikerin, Sanoanimal Ernährungsberaterin Pferd",
     "website": "https://www.pferdewohl-vater.de",
-    "tel": "01577 15 99 742",
+    "tel": "0157 71599742",
     "mail": "info@pferdewohl-vater.de",
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/2024_Sanoanimal_Siegel_Erna╠ehrungsberater-Pferd_230126-.png",
     "beratung": "Vor-Ort-Beratung, Fernberatung",
