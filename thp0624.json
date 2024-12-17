@@ -19,7 +19,7 @@
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/09/Vater_-Sandra-Foto-Therapeutennetzwerk.webp",
     "altText": "Therapeutin Sandra Vater",
     "name": "Sandra Vater",
-    "qualifikation": "Tierheilpraktikerin, Sanoanimal Ernährungsberaterin Pferd",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Tierakupunktur, Tierheilpraktikerin",
     "website": "https://www.pferdewohl-vater.de",
     "tel": "0157 71599742",
     "mail": "info@pferdewohl-vater.de",
@@ -282,6 +282,21 @@
     "beratung": "Vor-Ort-Beratung, Fernberatung",
     "adresse": "16348 Basdorf OT Wandlitz",
     "koordinaten": [52.71352,13.43027],
+    "land": "Deutschland"
+  }
+    {
+    "plz": "63831 Wiesen",
+    "img": "",
+    "altText": "",
+    "name": "Christiane Scheib",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Huforthopädie",
+    "website": "",
+    "tel": "Mobil: 0151 75005045 ",
+    "mail": "christiane.scheib@icloud.com",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/2024_Sanoanimal_Siegel_Erna╠ehrungsberater-Pferd_230126-.png",
+    "beratung": "Vor-Ort-Beratung",
+    "adresse": "63831 Wiesen",
+    "koordinaten": [50.10811,9.36391],
     "land": "Deutschland"
   },
   {
