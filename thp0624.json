@@ -373,5 +373,20 @@
     "adresse": "3033 Wohlen, Kanton Bern",
     "koordinaten": [46.9742,7.3510],
     "land": "Schweiz"
+  },
+    {
+    "plz": "6403 Küssnacht",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/03/Therapeutin-Stefanie-Weiss.webp",
+    "altText": "Therapeutin Stefanie Weiss",
+    "name": "Stefanie Weiss",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Lizenzierte Reitlehrerin der Ecole de Légèreté",
+    "website": "https://www.stefanieweiss.ch/",
+    "tel": "0041 798151158",
+    "mail": "stefanie.weiss@bluewin.ch",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung",
+    "adresse": "6403 Küssnacht",
+    "koordinaten": [47.08322,8.43904],
+    "land": "Schweiz"
   }
 ]
