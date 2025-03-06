@@ -329,6 +329,36 @@
     "koordinaten": [51.6700,6.5005],
     "land": "Deutschland"
   },
+    {
+    "plz": "88161 Lindenberg",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/03/anna-nusser-Logo.webp",
+    "altText": "Therapeutin Anna Nusser",
+    "name": "Anna Nusser",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Hufbearbeitung (Huforthopädin nach Biernat)",
+    "website": "https://unique-horses.de/",
+    "tel": "Mobil: 0172 1420956",
+    "mail": "anna@unique-horses.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "Ellgasser Str. 9c, 88161 Lindenberg",
+    "koordinaten": [47.606257,9.894943],
+    "land": "Deutschland"
+  },
+    {
+    "plz": "93087 Alteglofsheim",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/03/Claudia-Hayward-Costa-Logo.webp",
+    "altText": "Therapeutin Claudia Hayward-Costa",
+    "name": "Dr. rer. nat. Claudia Hayward-Costa,",
+    "qualifikation": "Dipl. Biologin, Sanoanimal Ernährungsberaterin Pferd",
+    "website": "",
+    "tel": "Mobil: 0160 97758300",
+    "mail": "CHC-Beratung@t-online.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung (Umkreis 50km), Fernberatung",
+    "adresse": "93087 Alteglofsheim",
+    "koordinaten": [48.91584,12.20600],
+    "land": "Deutschland"
+  },
   {
     "plz": "2000 Stockerau",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Wanas-Patricia-Foto-Therapeutennetzwerk.jpg",
