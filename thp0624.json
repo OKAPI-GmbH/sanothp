@@ -463,5 +463,20 @@
     "adresse": "6403 Küssnacht",
     "koordinaten": [47.08322,8.43904],
     "land": "Schweiz"
+  },
+    {
+    "plz": "8523 Hagenbuch",
+    "img": "",
+    "altText": "",
+    "name": "Melanie Heiniger",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd",
+    "website": "",
+    "tel": "",
+    "mail": "mel.heiniger@gmail.com",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "8523 Hagenbuch",
+    "koordinaten": [47.51529,8.86185],
+    "land": "Schweiz"
   }
 ]
