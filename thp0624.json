@@ -426,12 +426,27 @@
     "name": "Kristina Eichel",
     "qualifikation": "Sanoanimal Ernährungsberaterin Pferd",
     "website": "https://pferde-ernaehrungsberatung-ke.jimdosite.com",
-    "tel": "Mobil: +49 170 58 69 272 ",
+    "tel": "Mobil: +49 170 5869272 ",
     "mail": "kristinaeichel@gmail.com",
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
     "beratung": "Vor-Ort-Beratung und Fernberatung",
     "adresse": "25469 Halstenbek",
     "koordinaten": [53.62830,9.83113],
+    "land": "Deutschland"
+  },
+    {
+    "plz": "37589 Kalefeld",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Marie-Christine.webp",
+    "altText": "Logo Therapeutin Marie-Christine Dürkop",
+    "name": "Marie-Christine Dürkop",
+    "qualifikation": "Trainer B Reiten, Ernährungsberatung",
+    "website": "https://pferde-ernaehrungsberatung-ke.jimdosite.com",
+    "tel": "Mobil: +49 176 32362965 ",
+    "mail": "marie.christine0804@gmail.com",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung und Fernberatung",
+    "adresse": "37589 Kalefeld",
+    "koordinaten": [51.782325,10.108720],
     "land": "Deutschland"
   },
   {
