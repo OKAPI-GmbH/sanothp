@@ -349,7 +349,7 @@
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/Sonja.webp",
     "altText": "Therapeutin Sonja Dibowski",
     "name": "Sonja Dibowski",
-    "qualifikation": "Sanoanimal Ernährungsberater Pferd, Coach für pferdegestützte Persönlichkeitsentwicklung",
+    "qualifikation": "Sanoanimal Ernährungsberater Pferd, Coach für pferdegestützte Persönlichkeitsentwicklung, Heilpraktikerin",
     "website": "https://coaching-liebe-deine-natur.de/",
     "tel": "Mobil: +49 177 9580722 ",
     "mail": "sonja.dibowski@gmail.com",
@@ -380,7 +380,7 @@
     "altText": "Therapeutin Claudia Hayward-Costa",
     "name": "Dr. rer. nat. Claudia Hayward-Costa,",
     "qualifikation": "Dipl. Biologin, Sanoanimal Ernährungsberaterin Pferd",
-    "website": "",
+    "website": "https://chc-beratung.de/",
     "tel": "Mobil: +49 160 97758300",
     "mail": "CHC-Beratung@t-online.de",
     "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
@@ -568,5 +568,20 @@
     "adresse": "8614 Sulzbach",
     "koordinaten": [47.32754,8.73542],
     "land": "Schweiz"
+  },
+    {
+    "plz": "Swolgen (Limburg)",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Tessa-Peters.webp",
+    "altText": "Therapeutin Tessa Peters",
+    "name": "Tessa Peters",
+    "qualifikation": "Sanoanimal Ernährungsberater Pferd, Craniosacral-Therapeut",
+    "website": "https://horseandfeel.nl",
+    "tel": "+31 6 1490 2454",
+    "mail": "info@horseandfeel.nl",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Fernberatung",
+    "adresse": "Swolgen (Limburg)",
+    "koordinaten": [51.49261,6.10797],
+    "land": "Niederlande"
   }
 ]
