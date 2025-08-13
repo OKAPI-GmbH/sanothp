@@ -525,6 +525,21 @@
     "land": "Schweiz"
   },
     {
+    "plz": "6402 Merlischachen",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/08/Jessica-Neumann.webp",
+    "altText": "Therapeutin Jessica Neumann",
+    "name": "Jessica Neumann",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Pferdeweidemanagement",
+    "website": "https://www.gutepferdehaltung.ch",
+    "tel": "+41 (0) 76 334 12 11",
+    "mail": "jessica@nzp.ch",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "Sumpfweg 14, 6402 Merlischachen",
+    "koordinaten": [47.070768,8.421769?],
+    "land": "Schweiz"
+  },
+    {
     "plz": "3033 Wohlen, Kanton Bern",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Obi-Lengweiler-Christine-Foto-Pferd-fuer-das-Therapeutennetzwerk.jpg",
     "altText": "Therapeutin Christine Obi Lengweiler",
