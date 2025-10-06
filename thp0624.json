@@ -600,6 +600,21 @@
     "land": "Schweiz"
   },
     {
+    "plz": "8909 Zwillikon",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/10/Sandra-Pfister.webp",
+    "altText": "Therapeutin Sandra Pfister",
+    "name": "Sandra Pfister",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd, Heilströmen, Schüsslersalze",
+    "website": "",
+    "tel": "+41 79 746 85 03",
+    "mail": " sandra.pfister@fluvana-balance.ch",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "8909 Zwillikon",
+    "koordinaten": [47.287514,8.432168],
+    "land": "Schweiz"
+  },
+    {
     "plz": "5866 Swolgen (Limburg)",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Tessa-Peters.webp",
     "altText": "Therapeutin Tessa Peters",
