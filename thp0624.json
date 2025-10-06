@@ -479,7 +479,22 @@
     "koordinaten": [53.12465,8.16095],
     "land": "Deutschland"
   },
-      {
+    {
+    "plz": "47804 Krefeld",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/10/Ilona-Traegner.webp",
+    "altText": "Therapeutin Ilona Trägner",
+    "name": "Ilona Trägner",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd",
+    "website": "",
+    "tel": "+49 163 4209419",
+    "mail": "VeraSam@t-online.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "47804 Krefeld",
+    "koordinaten": [51.31940,6.52092],
+    "land": "Deutschland"
+  },
+  {
     "plz": "8340 Hadlikon Hinwil",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Claudia-Grimm.webp",
     "altText": "Therapeutin Claudia Grimm",
