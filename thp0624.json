@@ -494,6 +494,36 @@
     "koordinaten": [51.33144,6.56605],
     "land": "Deutschland"
   },
+    {
+    "plz": "72818 Trochtelfingen",
+    "img": "",
+    "altText": "",
+    "name": "Julia Kromer",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd",
+    "website": "",
+    "tel": "+49 160 6014287",
+    "mail": "info@equicora.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "72818 Trochtelfingen",
+    "koordinaten": [48.307349,9.246183],
+    "land": "Deutschland"
+  },
+{
+    "plz": "21423 Winsen",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/10/julia-klein.webp",
+    "altText": "Therapeutin Julia Klein",
+    "name": "Julia Klein",
+    "qualifikation": "Sanoanimal Ernährungsberaterin Pferd",
+    "website": "https://juliamaria.de/",
+    "tel": "+49 176 41437373",
+    "mail": "office@juliamaria.de",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "21423 Winsen (Luhe) & Umkreis bis 30km, Fernberatung",
+    "adresse": "21423 Winsen",
+    "koordinaten": [53.3512,10.2091],
+    "land": "Deutschland"
+  },
   {
     "plz": "8340 Hadlikon Hinwil",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Claudia-Grimm.webp",
