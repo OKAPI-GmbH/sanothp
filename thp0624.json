@@ -195,21 +195,6 @@
     "land": "Deutschland"
   },
   {
-    "plz": "3068 Utzigen",
-    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Nadine-Schlatter-Foto-Therapeutennetzwerk.jpg",
-    "altText": "Therapeutin Nadine Schlatter",
-    "name": "Nadine Schlatter",
-    "qualifikation": "Sanoanimal Ernährungsberater, Landwirtin",
-    "website": "https://pferde-gesund-füttern.ch",
-    "tel": "+41 79 4869451",
-    "mail": "info@pferdegesundfuettern.ch",
-    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
-    "beratung": "Vor-Ort-Beratung",
-    "adresse": "3068 Utzigen",
-    "koordinaten": [46.9604,7.5658],
-    "land": "Schweiz"
-  }, 
-  {
     "plz": "94099 Ruhstorf",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Tenschert-Julia-Foto-Therapeutennetzwerk.jpg",
     "altText": "Therapeutin Julia Tenschert",
@@ -509,6 +494,21 @@
     "koordinaten": [48.307349,9.246183],
     "land": "Deutschland"
   },
+     {
+    "plz": "53696 Königswinter",
+    "img": "",
+    "altText": "",
+    "name": "Yvonne Klein",
+    "qualifikation": "Ernährungsberatung, Hufbearbeitung, Hufschuhberatung",
+    "website": "https://www.hufpflege-yvonneklein.de",
+    "tel": "+49 163 6412944",
+    "mail": "hufpflege.yvonneklein@gmail.com",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "53696 Königswinter",
+    "koordinaten": [50.70472,7.24874],
+    "land": "Deutschland"
+  },
 {
     "plz": "21423 Winsen",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/10/julia-klein.webp",
@@ -629,6 +629,21 @@
     "koordinaten": [47.08322,8.43904],
     "land": "Schweiz"
   },
+     {
+    "plz": "3068 Utzigen",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/05/Nadine-Schlatter-Foto-Therapeutennetzwerk.jpg",
+    "altText": "Therapeutin Nadine Schlatter",
+    "name": "Nadine Schlatter",
+    "qualifikation": "Sanoanimal Ernährungsberater, Landwirtin",
+    "website": "https://pferde-gesund-füttern.ch",
+    "tel": "+41 79 4869451",
+    "mail": "info@pferdegesundfuettern.ch",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung",
+    "adresse": "3068 Utzigen",
+    "koordinaten": [46.9604,7.5658],
+    "land": "Schweiz"
+  }, 
     {
     "plz": "8523 Hagenbuch",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/05/melanie-heiniger.webp",
