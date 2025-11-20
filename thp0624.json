@@ -675,6 +675,21 @@
     "land": "Schweiz"
   },
     {
+    "plz": "9496 Balzers",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/11/Nicole-Vogt.webp",
+    "altText": "Therapeutin Nicole Vogt",
+    "name": "Nicole Vogt",
+    "qualifikation": "Sanoanimal Ernährungsberater Pferd, Geitner-Trainerin sowie Dualini®-Trainerin, Blutegeltherapie für Pferde, Pferdefachfrau EFZ",
+    "website": "https://www.hufundherz.li",
+    "tel": "",
+    "mail": "info@hufundherz.li",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2025/01/2025_Sanoanimal_Siegel_Ernaehrungsberater-Pferd.png",
+    "beratung": "Vor-Ort-Beratung",
+    "adresse": "9496 Balzers",
+    "koordinaten": [47.069113,9.506274],
+    "land": "Schweiz"
+  },
+    {
     "plz": "8909 Zwillikon",
     "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/10/Sandra-Pfister.webp",
     "altText": "Therapeutin Sandra Pfister",
