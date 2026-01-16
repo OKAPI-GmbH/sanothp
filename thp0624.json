@@ -136,14 +136,14 @@
   },
   {
     "plz": "82386 Oberhausen i.Obb.",
-    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2024/06/Graetz-Andrea-Foto-Pferd-fuer-das-Therapeutennetzwerk.jpg",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2026/01/Andrea-graetz.webp",
     "altText": "Therapeutin Andrea Grätz",
     "name": "Andrea Grätz",
     "qualifikation": "Futter-Experte für Pferde (bei Frau Dr. Fritz), Klassische Homöopathie, Tierkommunikation",
     "website": "https://www.4-healthy-animals.de",
     "tel": "Festnetz: +49 8802914812 | Mobil: +49 170 9946493",
     "mail": "andrea.g33@web.de",
-    "siegel": "",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2026/01/2026_D_Sanoanimal_Siegel_ErnaehrungsberaterPferd_small.png",
     "beratung": "Vor-Ort-Beratung, Fernberatung",
     "adresse": "82386 Oberhausen i.Obb.",
     "koordinaten": [47.7740,11.1184],
@@ -569,20 +569,20 @@
     "koordinaten": [50.92490,13.81848],
     "land": "Deutschland"
   },
-  {
-    "plz": "8340 Hadlikon Hinwil",
-    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Claudia-Grimm.webp",
-    "altText": "Therapeutin Claudia Grimm",
-    "name": "Claudia Grimm",
-    "qualifikation": "Alexandertechnik für Mensch und Pferd, Kinesiologie, Cranioscraltherapie, Sanoanimal Ernährungsberater Pferd, Hufpflegerin NHC",
-    "website": "https://www.claudiagrimm.ch",
-    "tel": "+41 78 6737217 ",
-    "mail": "claudia@claudiagrimm.ch",
-    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2026/01/2026_D_Sanoanimal_Siegel_ErnaehrungsberaterPferd_small.png",
-    "beratung": "Vor-Ort-Beratung (Anfragen gerne per Whatsapp)",
-    "adresse": "8340 Hadlikon Hinwil",
-    "koordinaten": [47.299864,8.840861],
-    "land": "Schweiz"
+    {
+    "plz": "85298 Scheyern",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2026/01/Petra-Schaller-Logo.webp",
+    "altText": "Logo Petra Schaller",
+    "name": "Petra Schaller",
+    "qualifikation": "Pferdeosteopathie (inkl. Cranio), Chinesische Medizin (TCVM), Akupunkturorientierte Energiearbeit (Torp), Tierkommunikation, Schüssler-Salze (Sanoanimal)(auch Behandlung von Hunden)",
+    "website": "https://petra-schaller.de/",
+    "tel": "+49 160 94683858",
+    "mail": "Petra.Schaller30@gmail.com",
+    "siegel": "",
+    "beratung": "Vor-Ort-Beratung, Fernberatung",
+    "adresse": "85298 Scheyern",
+    "koordinaten": [48.50040,11.45917],
+    "land": "Deutschland"
   },
   {
     "plz": "2000 Stockerau",
@@ -613,6 +613,21 @@
     "adresse": "4592 Leonstein",
     "koordinaten": [47.89471,14.23300],
     "land": "Österreich"
+  },
+     {
+    "plz": "8340 Hadlikon Hinwil",
+    "img": "https://wissen.sanoanimal.de/wp-content/uploads/2025/06/Claudia-Grimm.webp",
+    "altText": "Therapeutin Claudia Grimm",
+    "name": "Claudia Grimm",
+    "qualifikation": "Alexandertechnik für Mensch und Pferd, Kinesiologie, Cranioscraltherapie, Sanoanimal Ernährungsberater Pferd, Hufpflegerin NHC",
+    "website": "https://www.claudiagrimm.ch",
+    "tel": "+41 78 6737217 ",
+    "mail": "claudia@claudiagrimm.ch",
+    "siegel": "https://wissen.sanoanimal.de/wp-content/uploads/2026/01/2026_D_Sanoanimal_Siegel_ErnaehrungsberaterPferd_small.png",
+    "beratung": "Vor-Ort-Beratung (Anfragen gerne per Whatsapp)",
+    "adresse": "8340 Hadlikon Hinwil",
+    "koordinaten": [47.299864,8.840861],
+    "land": "Schweiz"
   },
   {
     "plz": "4578 Bibern Solothurn",
